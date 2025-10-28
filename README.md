@@ -1,6 +1,6 @@
-# WeatherNow - Real-Time Weather Application
+# SkyCast - Real-Time Weather Application
 
-**WeatherNow** is a dynamic and interactive real-time weather application built using React. It allows users to quickly get the current weather data for any city worldwide. With a clean, user-friendly interface powered by Material-UI and custom CSS, WeatherNow provides accurate weather information such as temperature, humidity, wind speed, and weather conditions, along with corresponding weather icons and images to enhance the visual experience.
+**SkyCast** is a dynamic and interactive real-time weather application built using React. It allows users to quickly get the current weather data for any city worldwide. With a clean, user-friendly interface powered by Material-UI and custom CSS, SkyCast provides accurate weather information such as temperature, humidity, wind speed, and weather conditions, along with corresponding weather icons and images to enhance the visual experience.
 
 ---
 
